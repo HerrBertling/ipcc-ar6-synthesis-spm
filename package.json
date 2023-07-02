@@ -1,0 +1,23 @@
+{
+  "name": "ipcc-ar6-synthesis-spm",
+  "version": "1.0.0",
+  "description": "Mobile responsive HTML version of the IPCC AR6 synthesis report SPM",
+  "main": "index.html",
+  "scripts": {
+    "tailwind": "tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerrBertling/ipcc-ar6-synthesis-spm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerrBertling/ipcc-ar6-synthesis-spm/issues"
+  },
+  "homepage": "https://github.com/HerrBertling/ipcc-ar6-synthesis-spm#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "tailwindcss": "^3.3.2"
+  }
+}
